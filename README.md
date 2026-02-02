@@ -8,8 +8,8 @@
 
 👉 Compatível com:
 
-Ubuntu / Debian / Mint
-Fedora / Rocky / Alma
-Arch
-Servidores (cloud, bare metal, VM)
-Desktop com NetworkManager
+✅ Ubuntu / Debian / Mint
+✅ Fedora / Rocky / Alma
+✅ Arch
+✅ Servidores (cloud, bare metal, VM)
+✅ Desktop com NetworkManager
